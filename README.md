@@ -15,7 +15,7 @@ Check Out Times by Users
 !["Check-Out_Times_by_Users"](https://github.com/dagibbins186/bikesharing/blob/main/biksharing/Challenge%20Images/Check-Out_Times_by_Users.PNG)
 \
 \
-The graph, "Check Out Times by Users", indicated that most bikes are checked out by men.
+Further inspection indicated that most bikes are checked out by men for this period of time.
 \
 \
 !["Trips_by_Gender_Weekday_per_Hour.PNG"](https://github.com/dagibbins186/bikesharing/blob/main/biksharing/Challenge%20Images/Trips_by_Gender_Weekday_per_Hour.PNG)
@@ -39,7 +39,7 @@ The graph, "Top Starting Locations", conveyed that many riders started their tri
 !["Starting_Locations_Map_2.PNG"](https://github.com/dagibbins186/bikesharing/blob/main/biksharing/Challenge%20Images/Starting_Locations_Map_2.PNG)
 \
 \
-Ending locations advanced the hypothesis that many riders also ended their trips in Midtown. A similar start and end location supported the theory that riders took small trips, and rented to accommodate multi-modal trips. 
+Many riders also ended their trips in Midtown. A similar start and end location supported the theory that riders took small trips, and rented to accommodate multi-modal trips. 
 \
 \
 !["Top_Ending_Locations.PNG"](https://github.com/dagibbins186/bikesharing/blob/main/biksharing/Challenge%20Images/Top_Ending_Locations.PNG)
