@@ -9,4 +9,7 @@ In August 2019, 2,344,224 users rented bikes. 1,900,359 riders (81%) chose to su
 \
 The graph, "Top Starting Locations", indicates that many riders start their trips near New York Universty.
 !["Starting_Locations_Map_2.PNG"](https://github.com/dagibbins186/bikesharing/blob/main/biksharing/Challenge%20Images/Starting_Locations_Map_2.PNG)
+\
+\
+!["Top_Ending_Locations.PNG"](https://github.com/dagibbins186/bikesharing/blob/main/biksharing/Challenge%20Images/Top_Ending_Locations.PNG)
 # Summary
