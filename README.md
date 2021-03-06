@@ -55,7 +55,7 @@ Most trips materialized during commuting hours. However, this trend shifted on w
 # Summary
 Citi Bike's enterprise emerged successful in New York City. It offered an alternative to metro, taxi or walking. For multi-modal trips, users avoided parking, traffic and hassle. Men took advantage of the subscription service more than women. However, customers of undefined gender picked up their use of bikes on weekends. This may represent an untapped market for Citi Bike. It is recommended other urban places incorporate Citi Bike based on New York's case study.
 
-Please see dashboard and images in tableau via this link: https://public.tableau.com/profile/danielle.stauffer#!/vizhome/bikesharing_16146562357810/NYCCitiBike?publish=yes
+Please see Tableau dashboard via this link or the image below: https://public.tableau.com/profile/danielle.stauffer#!/vizhome/bikesharing_16146562357810/NYCCitiBike?publish=yes
 
-An image is also below:
+
 !["NYC%20Citi%20Bike.png"](https://github.com/dagibbins186/bikesharing/blob/main/biksharing/Challenge%20Images/NYC%20Citi%20Bike.png)
