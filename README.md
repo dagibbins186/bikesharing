@@ -18,4 +18,7 @@ The graph, "Top Starting Locations", indicates that many riders start their trip
 \
 \
 !["Trips_by_Gender_Weekday_per_Hour.PNG"](https://github.com/dagibbins186/bikesharing/blob/main/biksharing/Challenge%20Images/Trips_by_Gender_Weekday_per_Hour.PNG)
+\
+\
+!["User_Trips-by_Gender_by_Weekday.PNG"](https://github.com/dagibbins186/bikesharing/blob/main/biksharing/Challenge%20Images/User_Trips-by_Gender_by_Weekday.PNG)
 # Summary
