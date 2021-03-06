@@ -54,3 +54,8 @@ Grand Central train station marked one of the darkest bubbles on the "Top Ending
 Most trips materialized during commuting hours. However, this trend shifted on weekends, when most people used Citi Bikes during the middle of the day. In recent years, New York City limited car traffic through the parks. This regulation might have affected why riders opted to travel via bike.
 # Summary
 Citi Bike's enterprise emerged successful in New York City. It offered an alternative to metro, taxi or walking. For multi-modal trips, users avoided parking, traffic and hassle. Men took advantage of the subscription service more than women. However, customers of undefined gender picked up their use of bikes on weekends. This may represent an untapped market for Citi Bike. It is recommended other urban places incorporate Citi Bike based on New York's case study.
+
+Please see dashboard and images in tableau via this link: https://public.tableau.com/profile/danielle.stauffer#!/vizhome/bikesharing_16146562357810/NYCCitiBike?publish=yes
+
+An image is also below:
+!["NYC%20Citi%20Bike.png"](https://github.com/dagibbins186/bikesharing/blob/main/biksharing/Challenge%20Images/NYC%20Citi%20Bike.png)
