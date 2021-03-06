@@ -33,7 +33,7 @@ Thursdays and Fridays looked especially popular for male, subscribers. Gender di
 !["Top_Starting_Locations.PNG"](https://github.com/dagibbins186/bikesharing/blob/main/biksharing/Challenge%20Images/Top_Starting_Locations.PNG)
 \
 \
-The graph, "Top Starting Locations", conveyed that many riders started their trips in Midtown. High concentrations of riders also started their trips near New York Universty. Midtown is the heart of the city where jobs and other activities are heavily concentrated.
+The graph, "Top Starting Locations", conveyed that many riders started their trips in Midtown. High concentrations of riders also began their trips near New York Universty. Midtown is the heart of the city where jobs and other activities are heavily concentrated.
 \
 \
 !["Starting_Locations_Map_2.PNG"](https://github.com/dagibbins186/bikesharing/blob/main/biksharing/Challenge%20Images/Starting_Locations_Map_2.PNG)
